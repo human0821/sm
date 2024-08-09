@@ -1,0 +1,3 @@
+interface AccordionArrow {
+  isExpanded: boolean;
+}

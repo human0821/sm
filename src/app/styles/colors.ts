@@ -1,0 +1,41 @@
+const enum Colors {
+  BLACK = "#000000",
+  BLACK_MAIN = "#202020",
+
+  WHITE = "#ffffff",
+
+  GREY_MAIN = "#979797",
+  GREY_LIGHT = "#E0E0E0",
+  GREY_PALE = "#E9E9E9",
+  GREY_PALE3 = "#EFEFEF",
+  GREY_PALE4 = "#CDCDCD",
+  GREY_MIDDLE = "#767676",
+  GREY_MIDDLE1 = "#575757",
+
+  RED_MAIN = "#CF2929",
+  RED_PALE = "#FFE1E1",
+
+  PINK_LIGHT = "#FBEAFF",
+  PINK_DARK = "#5E35B7",
+
+  YELLOW_MAIN = "#F6E4B7",
+
+  ORANGE_PALE = "#FFE9D9",
+  ORANGE_PALE2 = "#E96262",
+
+  GREEN_MAIN = "#5D8D2C",
+  GREEN_PALE = "#E7FFDC",
+  GREEN_DARK = "#0E4D62",
+
+  BLUE_LIGHT = "#CAE9FF",
+  BLUE_PALE = "#F2F2FF",
+
+  TEXT_DISABLED = "#838383",
+  DISABLED = "#e8e8e8",
+  DIVIDER = "#DBDBDB",
+  SECTION_BACKGROUND = "#F6F6F6",
+  ERROR = "#FF2323",
+  NEWS_LINK = "#98D4FF",
+}
+
+export default Colors;

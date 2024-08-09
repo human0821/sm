@@ -1,0 +1,4 @@
+include:
+  - project: 'internal/include'
+    ref: master
+    file: 'frontend.yml'

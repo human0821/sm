@@ -1,0 +1,15 @@
+<svg width="72" height="97" viewBox="0 0 72 97" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6 94C4.34315 94 3 92.6569 3 91V6C3 4.34315 4.34315 3 6 3H52.7096L69 20.1954V91C69 92.6569 67.6569 94 66 94H6ZM54 0L72 19V91C72 94.3137 69.3137 97 66 97H6C2.68629 97 0 94.3137 0 91V6C0 2.68629 2.68629 0 6 0H54Z" fill="currentColor"/>
+<path d="M49 0H54L72 19V22H58.4051C55.6139 22 52.9668 20.7602 51.1799 18.6159L-nan -nanL51.1799 18.6159C49.7714 16.9256 49 14.7951 49 12.5949V0Z" fill="currentColor"/>
+<rect x="13" y="48" width="5" height="3" rx="1.5" fill="currentColor"/>
+<rect x="25" y="48" width="34" height="3" rx="1.5" fill="currentColor"/>
+<rect x="13" y="59" width="5" height="3" rx="1.5" fill="currentColor"/>
+<rect x="25" y="59" width="34" height="3" rx="1.5" fill="currentColor"/>
+<rect x="13" y="70" width="5" height="3" rx="1.5" fill="currentColor"/>
+<rect x="25" y="70" width="34" height="3" rx="1.5" fill="currentColor"/>
+<rect x="13" y="81" width="5" height="3" rx="1.5" fill="currentColor"/>
+<rect x="25" y="81" width="34" height="3" rx="1.5" fill="currentColor"/>
+<path d="M15 14H17V31H15V14Z" fill="currentColor"/>
+<path d="M13 26H23V28H13V26Z" fill="currentColor"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M21 16H17V22H21C22.6569 22 24 20.6569 24 19C24 17.3431 22.6569 16 21 16ZM15 14V24H21C23.7614 24 26 21.7614 26 19C26 16.2386 23.7614 14 21 14H15Z" fill="currentColor"/>
+</svg>

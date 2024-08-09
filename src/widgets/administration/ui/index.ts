@@ -1,0 +1,1 @@
+export { NewsFeedTable } from "./NewsFeedTable";
